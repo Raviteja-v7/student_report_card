@@ -8,7 +8,7 @@ This project is a **Student Report Card System** implemented in C++ using Object
 - Calculate average marks from three subjects and assign a grade based on the calculated average.
 - Update the student information with average marks and grade.
 - Display the updated student report card.
-- Object-Oriented structure for managing student data and database operations.
+- Object-Oriented structure for managing student data and database operations..
 
 ## OOP Concepts Implemented
 
